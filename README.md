@@ -2,11 +2,10 @@
 ## Description
 Program encrypts and decrypts messages using one of three different cryptography methods: Caesar, Vigenere, or Polybius.
 
-Note: All function RMEs were provided for me.
-
 ## Functions and Files Implemented
 * Functions: toUpperCase(), removeNonAlphas(), removeDuplicate(), and charToInt().
 * Files: caesar.cpp, vigenere.cpp, polybius.cpp, test.cpp, and ciphers.cpp.
+* _Note: All other files and functions were provided for me by the University of Michigan EECS 183._
 
 ## Language Used
 * C++
