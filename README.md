@@ -5,9 +5,8 @@ Program encrypts and decrypts messages using one of three different cryptography
 Note: All function RMEs were provided for me.
 
 ## Functions and Files Implemented
-I implemented all of functions under the following files on my own: caesar.cpp, vigenere.cpp, polybius.cpp, test.cpp, and ciphers.cpp.
-
-In addition, I implemented toUpperCase(), removeNonAlphas(), removeDuplicate(), and charToInt() under utility.cpp.
+* Functions: toUpperCase(), removeNonAlphas(), removeDuplicate(), and charToInt().
+* Files: caesar.cpp, vigenere.cpp, polybius.cpp, test.cpp, and ciphers.cpp.
 
 ## Language Used
 * C++
